@@ -6,7 +6,7 @@
 
 ### 👩‍💻 **About Me**  
 
-I am an **AWS DevOps Engineer** at **Advent Global Solutions** with hands-on experience in cloud computing and DevOps tools. I’m passionate about designing and implementing scalable, secure, and highly available cloud solutions. My expertise includes:  
+I am an **AWS DevOps Engineer** at **Hazercloud** with hands-on experience in cloud computing and DevOps tools. I’m passionate about designing and implementing scalable, secure, and highly available cloud solutions. My expertise includes:  
 
 - **Certified AWS Cloud Practitioner**, **AWS Developer Associate**, and **Terraform Associate**.  
 - Proficient in **AWS services** like Compute, Networking, Storage, RDS, Monitoring, and Security.  
